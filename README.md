@@ -1,6 +1,8 @@
 # Test Repository
 
-![Let us begin gif from Giphy](https://media.giphy.com/media/5zf2M4HgjjWszLd4a5/giphy.gif)
+Make changes!
+
+![Changes gif from Giphy](https://media.giphy.com/media/3og0IzCY7KZAyaEGfm/giphy.gif)
 
 ## Steps to Follow
 
